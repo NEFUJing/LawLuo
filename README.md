@@ -1,6 +1,6 @@
 # LawLuo: A Chinese Law Firm co-run by LLMs
 
-## KINLED (Knowledge-INtensive LEgal Dialogue) Dataset
+## 1. KINLED (Knowledge-INtensive LEgal Dialogue) Dataset
 | Composition | No.Dialouge Entries |
 |----------|--------|
 |法律概念和术语解释对话    | 3125  |
