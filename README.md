@@ -16,7 +16,7 @@
 3. 账号：18965335880  // Paswd：20021226#Dcx
 4. 执行命令： oss cp oss://Lora_Output.zip /Path/to/you/pc
 5. Lora 代码也在里面，如需要请执行命令： oss cp oss://ChatGLM3/ChatGLM3.zip /Path/to/you/pc
-6. 配置文件请见 Lora.ymal
+6. 配置文件请见 Lora参数.txt
 
 ## 免责声明
 1. 本项目中的所有内容与资源**仅限于学术研究用途，严禁应用于任何商业以及其他可能危害社会或造成不良影响的用途**。
