@@ -10,6 +10,14 @@
 | 法律咨询对话    | 995  |
 | 法考问题解答对话     | 985  |
 
+## 一次微调的权重文件 //由于文件过大，请直接使用OSS下载，具体操作方式如下
+1.下载OSS至Windows操作系统，详细下载链接请见：https://gpushare.com/docs/data/download/
+2.登录OSS //oss login 
+3.账号：18965335880  // Paswd：20021226#Dcx
+4.执行命令： oss cp oss://Lora_Output.zip /Path/to/you/pc
+5.Lora 代码也在里面，如需要请执行命令： oss cp oss://ChatGLM3/ChatGLM3.zip /Path/to/you/pc
+6.配置文件请见 Lora.ymal
+
 
 ## 免责声明
 1. 本项目中的所有内容与资源**仅限于学术研究用途，严禁应用于任何商业以及其他可能危害社会或造成不良影响的用途**。
