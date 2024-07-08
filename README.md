@@ -18,7 +18,6 @@
 5.Lora 代码也在里面，如需要请执行命令： oss cp oss://ChatGLM3/ChatGLM3.zip /Path/to/you/pc
 6.配置文件请见 Lora.ymal
 
-
 ## 免责声明
 1. 本项目中的所有内容与资源**仅限于学术研究用途，严禁应用于任何商业以及其他可能危害社会或造成不良影响的用途**。
 2. 本项目中的法律术语及其概念数据来自**中文法律术语汇编**，网址：https://terms.legalhub.cn
