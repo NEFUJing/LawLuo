@@ -1,6 +1,6 @@
 # 🏛️ LawLuo: A Chinese Law Firm Co-run by LLM  Agents
 
-![LawLuo Law Firm](assets/lawluo_logo.png)
+![LawLuo Law Firm](./assets/lawluo_logo.png)
 
 <div>
   <a href="">
