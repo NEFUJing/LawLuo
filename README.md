@@ -16,7 +16,7 @@
     <li>🌲Zhongze Luo, 东北林业大学计算机与控制工程学院</li>
     <li>🌟Yanbo Chang, 石家庄铁道大学建筑与艺术设计学院</li>
     <li>🌲<strong>Yang Li</strong>，东北林业大学计算机与控制工程学院</li>
-    <li>🌲Yanbin Zou, 东北林业大学管理学院</li>
+    <li>🌲Yanbin Zou, 东北林业大学经济管理学院</li>
     
 </ul>
 
