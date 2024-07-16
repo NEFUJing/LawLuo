@@ -583,3 +583,21 @@ if __name__ == '__main__':
       archivePrefix={arXiv},
       primaryClass={id='cs.CL' full_name='Computation and Language' is_active=True alt_name='cmp-lg' in_archive='cs' is_general=False description='Covers natural language processing. Roughly includes material in ACM Subject Class I.2.7. Note that work on artificial languages (programming languages, logics, formal systems) that does not explicitly address natural-language issues broadly construed (natural-language processing, computational linguistics, speech, text retrieval, etc.) is not appropriate for this area.'}
 }
+
+@inproceedings{liu2022p,
+title={P-tuning: Prompt tuning can be comparable to fine-tuning across scales and tasks},
+author={Liu, Xiao and Ji, Kaixuan and Fu, Yicheng and Tam, Weng and Du, Zhengxiao and Yang, Zhilin and Tang, Jie},
+booktitle={Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short
+Papers)},
+pages={61--68},
+year={2022}
+}
+
+@misc{tang2023toolalpaca,
+title={ToolAlpaca: Generalized Tool Learning for Language Models with 3000 Simulated Cases},
+author={Qiaoyu Tang and Ziliang Deng and Hongyu Lin and Xianpei Han and Qiao Liang and Le Sun},
+year={2023},
+eprint={2306.05301},
+archivePrefix={arXiv},
+primaryClass={cs.CL}
+}
