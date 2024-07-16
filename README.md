@@ -67,7 +67,7 @@
 
 
 
-# 2 数据集
+# 2. 数据集
 
 #### KINLED: Knowledge-Intensive Legal Dialogue Dataset 📚⚖️
 
@@ -94,7 +94,7 @@
 
 ![对话示意图](./assets/dialogue.png)
 
-# 3 实验分析
+# 3. 实验分析
 
 
 ✨ 整体来看，**LawLuo** 全面超越了基线。此外，从图中可以看出，LawLuo 对 ChatGLM-3-6b 取得了 **72% 的赢率**，鉴于 LawLuo 是在 ChatGLM-3-6b 上微调的，因此这证明了我们指令微调过程的有效性。🎉
@@ -111,7 +111,7 @@
 
 
 
-# 4 运行环境
+# 4. 运行环境
 
 
 #### 硬件配置 🖥️
@@ -141,5 +141,3 @@
 2. 登录OSS //oss login 
 3. 账号：18965335880  // Paswd：20021226#Dcx
 4. 执行命令： oss cp oss://Lora_Output.zip /Path/to/you/pc
-5. Lora 代码也在里面，如需要请执行命令： oss cp oss://ChatGLM3/ChatGLM3.zip /Path/to/you/pc
-6. 配置文件请见 Lora参数.yaml
