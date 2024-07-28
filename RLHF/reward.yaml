@@ -40,6 +40,3 @@ per_device_eval_batch_size: 2
 eval_strategy: steps
 eval_steps: 500
 
-# 本代码参考自CSDN博主，用于llama-factory reward training
-# 版权声明：本文为博主原创文章，遵循 CC 4.0 BY-SA 版权协议，转载请附上原文出处链接和本声明。
-# 本文链接：https://blog.csdn.net/weixin_42479327/article/details/140000634
