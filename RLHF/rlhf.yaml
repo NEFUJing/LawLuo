@@ -40,6 +40,3 @@ max_new_tokens: 512
 top_k: 0
 top_p: 0.9
 
-# 本代码参考自CSDN博主，用于llama-factory rlhf training
-# 版权声明：本文为博主原创文章，遵循 CC 4.0 BY-SA 版权协议，转载请附上原文出处链接和本声明。
-# 本文链接：https://blog.csdn.net/weixin_42479327/article/details/140000634
