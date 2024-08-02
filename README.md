@@ -127,10 +127,10 @@
 - **CUDA**: 12.1 🚀
 - **Transformers**: 4.40.0 🤖
 
-#### RLHF工具 ⚙️
+#### RLHF工具 💪
 
-- **数据集标注工具**: [RLHF 标注工具](https://github.com/SupritYoung/RLHF-Label-Tool)。 ⚙️
-- **RLHF微调框架**: [LLaMa-Factory](https://github.com/hiyouga/LLaMA-Efficient-Tuning)。⚙️
+- **数据集标注工具**: [RLHF 标注工具](https://github.com/SupritYoung/RLHF-Label-Tool)。 🔧
+- **RLHF微调框架**: [LLaMa-Factory](https://github.com/hiyouga/LLaMA-Efficient-Tuning)。🔧
 
 
 # 5. 免责声明
