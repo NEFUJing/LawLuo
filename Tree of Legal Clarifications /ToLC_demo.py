@@ -18,7 +18,7 @@ def ToLC(ut, ChatGPT_API, Lawyerd, H, K, C):
         # Loop for each node in the h-th layer
         for k in range(1, K**(h-1) + 1):
             # Calculate the index of the k-th node on the h-th layer
-            i = (K**(h-1) - 1) * k - 1 + k
+            i = (K**(h-1) - 1) / k - 1）+ k
             
             # Retrieve relevant cases from case bank C
             Ci = Retriever(T[i], C)
@@ -47,11 +47,12 @@ def Retriever(Ni, C):
 
 # ChatGPT API function: Generate legal elements using ChatGPT
 def ChatGPT_API(Ni, Ci):
-    # Call ChatGPT-4o API here, passing in node Ni and relevant cases Ci to generate legal elements
+    # Call ChatGPT API here, passing in node Ni and relevant cases Ci to generate legal elements
     # legal_elements = []
     # Actual implementation details omitted
+    
     return legal_elements
-
+    
 # User function: User actively chooses Yes/No nodes
 def User(T):
     # Implement user interaction logic with tree T here, allowing user to choose Yes/No nodes
