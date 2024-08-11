@@ -1,0 +1,19 @@
+[
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<question>:;"
+            }
+        ],
+        "chosen": {
+            "from": "gpt",
+            "value": ""
+        },
+        "rejected": {
+            "from": "gpt",
+            "value": ""
+        }
+    },
+    ...
+]
